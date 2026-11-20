@@ -2,8 +2,9 @@
 **/bin/
 **/obj/
 
-# Visual Studio / IDEs
+# Visual Studio / IDEs e configurações locais
 .vs/
 .idea/
 *.user
+*.csproj.user
 *.suo
