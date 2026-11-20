@@ -1,0 +1,9 @@
+# Saídas do .NET
+**/bin/
+**/obj/
+
+# Visual Studio / IDEs
+.vs/
+.idea/
+*.user
+*.suo
